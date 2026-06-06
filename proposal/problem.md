@@ -1,13 +1,10 @@
-problem identification
-water bill are often calculated manually causin errors and unfair charge
+ Problem Statement
 
+## The Problem
+Many water utilities face challenges in:
+- Manual billing processes
+- Calculation errors
+- Lost or misplaced records
+- Inefficient customer management
+- Delayed bill generation
 
-affected peoples:
-customers
-water companies
-administrators
-
-why it should be solved
-to reduse makosa
-accountability
-to save time
